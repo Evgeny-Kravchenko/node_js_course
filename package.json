@@ -9,6 +9,7 @@
   "author": "Evgeny Kravchenko",
   "license": "ISC",
   "dependencies": {
-    "commander": "^8.0.0"
+    "commander": "^8.0.0",
+    "readable-stream": "^3.6.0"
   }
 }
