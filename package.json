@@ -1,0 +1,15 @@
+{
+  "name": "node-js-rss-course",
+  "version": "0.0.1",
+  "description": "Node JS Rolling scopes school (by my own and without scedule)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evgeny Kravchenko",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.0.0",
+    "readable-stream": "^3.6.0"
+  }
+}
